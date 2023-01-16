@@ -1,0 +1,46 @@
+.i-ching {
+    mat-card {
+        width: 365px;
+
+        h3 {
+            font-size: medium;
+            font-weight: 600;
+            line-height: 1.2;
+        }
+        mat-card-title {
+            font-family: 'Montserrat';
+            font-size: x-large;
+        }
+        mat-card-subtitle {
+            font-family: 'Raleway';
+            color: darkgray;
+            font-size: medium;
+        }
+        mat-card-actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 8px;
+            
+            button {
+                background-color: transparent;
+                cursor: pointer;
+            }
+        }
+        img {
+            display: flex;
+            align-self: center;        
+        }
+        .kua, .wilhelm {
+            white-space: pre-wrap;
+        }
+        .sequence {
+            font-size: small;
+            margin-bottom: 12px;;
+        }
+        .eranos {
+            color: darkgray;
+            font-size: small;
+            margin-top: 12px;;
+        }
+    }
+}

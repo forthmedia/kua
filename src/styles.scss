@@ -1,1 +1,45 @@
-/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/theming';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Raleway:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
+
+@include mat-core();
+
+$content-width: 80%;
+$responsive-width: 98%;
+$max-width: 1440px;
+
+.mat-typography h1,
+.mat-typography h2,
+.mat-typography h3,
+.mat-typography h4,
+.mat-typography h5,
+.mat-typography h6,
+.mat-typography button,
+.mat-typography nav
+.mat-typography a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+.mat-typography {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    margin: 0; 
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: $content-width;
+    max-width: $max-width;
+    padding: 20px 0;
+
+    @media screen and (max-width: 640px) {
+        .content {
+            width: $responsive-width;
+            padding: 0;
+        }
+    }
+}

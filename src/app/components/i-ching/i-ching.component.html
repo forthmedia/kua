@@ -1,0 +1,20 @@
+<div class="i-ching">
+    <mat-card class="mat-elevation-z4">
+        <mat-card-header>
+            <mat-card-subtitle>{{subtitle}}</mat-card-subtitle>
+            <mat-card-title>{{name}}</mat-card-title>
+        </mat-card-header>
+        <img mat-card-xl-image src="/assets/{{image}}" alt="heaven" matTooltip="{{alt}}" [matTooltipPosition]="'above'" />
+        <mat-card-content>
+            <div class="sequence">{{sequence}}</div>
+            <h3 class="kua">{{kua}}</h3>
+            <div class="wilhelm">{{wilhelm}}</div>
+            <div class="eranos">{{eranos}}</div>
+        </mat-card-content>
+        <mat-card-actions>
+            <button (click)="goPrev()" mat-button><mat-icon>chevron_left</mat-icon></button>
+            <button (click)="bookmark()" mat-stroked-button>bookmark</button>
+            <button (click)="goNext()" mat-button><mat-icon>chevron_right</mat-icon></button>
+        </mat-card-actions>
+    </mat-card>
+</div>
