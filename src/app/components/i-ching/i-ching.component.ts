@@ -328,17 +328,424 @@ const I_CHING: KuaInfo[] = [
     wilhelm: `The fire, whose light illuminates the mountain and makes it pleasing, does not shine far; in the same way, beautiful form suffices to brighten and to throw light upon matters of lesser moment, but important questions cannot be decided in this way. This requires greater earnestness.`,
     eranos: `The situation described by this hexagram is characterized by caring for the beauty of outer presentation, enhancing intrinsic value by esthetic sensitivity to details.`
   },
-];
-
-/*
   {
-    name: ``,
-    subtile: ``,
-    image: `00.jpg`,
-    alt: ``,
-    kua: ``,
-    sequence: ``,
-    wilhelm: ``,
-    eranos: ``
+    name: `Stripping-Away`,
+    subtile: `bo`,
+    image: `23.jpg`,
+    alt: `mountain above earth`,
+    kua: `the mountain's border adjoins earth. stripping-away.\nthose above use generosity toward those below to secure their position.`,
+    sequence: `When one goes too far in adornment, success exhausts itself. Hence there follows the hexagram of splitting Apart. Splitting apart means ruin.`,
+    wilhelm: `The mountain rests on the earth. When it is steep and narrow, lacking a broad base, it must topple over. Its position is strong only when it rises out of the earth broad and great, not proud and steep. So likewise those who rule rest on the broad foundation of the people. They too should be generous and benevolent, like the earth that carries all. Then they will make their position as secure as a mountain is in its tranquility.`,
+    eranos: `The situation described by this hexagram is characterized by stripping away a worn-out or obsolete form of presentation, cutting away the inessential.`
   },
-*/
+  {
+    name: `Return`,
+    subtile: `fu`,
+    image: `24.jpg`,
+    alt: `earth above thunder`,
+    kua: `thunder located in the earth's center. return.\nancient kings used the winter solstice to close passages. merchant caravans did not travel and rulers did not inspect their regions`,
+    sequence: `Things cannot be destroyed once and for all. When what is above is completely split apart, it returns below. Hence there follows the hexagram of return.`,
+    wilhelm: `The winter solstice has always been celebrated in China as the resting time of the year—a custom that survives in the time of rest observed at the new year. In winter the life energy, symbolized by thunder, the Arousing, is still underground. Movement is just at its beginning; therefore it must be strengthened by rest, so that it will not be dissipated by being used prematurely. This principle, i.e., of allowing energy that is renewing itself to be reinforced by rest, applies to all similar situations. The return of health after illness, the return of understanding after an estrangement: everything must be treated tenderly and with care at the beginning, so that the return may lead to a flowering.`,
+    eranos: `The situation described by this hexagram is characterized by the re-emergence of something past, returning to a previous time or place or retracing a path  in order to correct one's mistakes.`
+  },
+  {
+    name: `No Error`,
+    subtile: `wu wang`,
+    image: `25.jpg`,
+    alt: `heaven above thunder`,
+    kua: `below heaven thunder moves. all beings aspire toward no error.\nancient kings used expenditure in harmony with the season and so nurtured myriad beings.`,
+    sequence: `By turning back one is freed of guilt. Hence there follows the hexagram of Innocence.`,
+    wilhelm: `In springtime when thunder, life energy, begins to move again under the heavens, everything sprouts and grows, and all beings receive from the creative activity of nature the childlike innocence of their original state. So it is with the good rulers of mankind: drawing on the spiritual wealth at their command, they take care of all forms of life and all forms of culture and do everything to further them, and at the proper time.`,
+    eranos: `The situation described by this hexagram is characterized by maintaining a sincere and correct attitude, keeping aloof from events which might entangle one in error, confusion or recklessness.`
+  },
+  {
+    name: `Great Accumulation`,
+    subtile: `da chu`,
+    image: `26.jpg`,
+    alt: `mountain above heaven`,
+    kua: `heaven located in the mountain's center. great accumulation.\na junzi uses many recorded precedents of speech and past actions, and applies them to strengthen his devotion.`,
+    sequence: `When innocence is present, it is possible to tame. Hence there follows the Taming Power of the Great.`,
+    wilhelm: `Heaven within the mountain points to hidden treasures. In the words and deeds of the past there lies a hidden treasure that men may use to strengthen and elevate their own characters. The way to study the past is not to confine oneself to mere knowledge of history, but through application of this knowledge, to give actuality to the past.`,
+    eranos: `The situation described by this hexagram is characterized by a central idea or long-term goal, around which a wealth of experiences accumulate.`
+  },
+  {
+    name: `Nourishment`,
+    subtile: `da chu`,
+    image: `27.jpg`,
+    alt: `mountain above thunder`,
+    kua: `the mountain possesses thunder below. nourishment.\na junzi uses considerate words while speaking, and is moderate in eating and drinking.`,
+    sequence: `When things are held fast, there is provision of nourishment. Hence there follows the hexagram of the Corners of the Mouth. "The corners of the mouth" means the providing of nourishment.`,
+    wilhelm: `“Good comes forth in the sign of the Arousing”: when in the spring the life forces stir again, all things come into being anew. “He brings to perfection in the sign of Keeping Still”: thus in the early spring, when the seeds fall to earth, all things are made ready. This is an image of providing nourishment through movement and tranquility. The superior man takes it as a pattern for the nourishment and cultivation of his character. Words are a movement going from within outward. Eating and drinking are movements from without inward. Both kinds of movement can be modified by tranquility. For tranquility keeps the words that come out of the mouth from exceeding proper measure, and keeps the food that goes into the mouth from exceeding its proper measure. Thus character is cultivated.`,
+    eranos: `The situation described by this hexagram is characterized by paying attention to how one seeks nourishment and opening to receive it.`
+  },
+  {
+    name: `Great Surpassing`,
+    subtile: `da guo`,
+    image: `28.jpg`,
+    alt: `lake above wood`,
+    kua: `the lake submerges wood. great surpassing.\na junzi uses standing alone, upright without fear, and withdraws from the world without regret.`,
+    sequence: `Without provision of nourishment one cannot move; hence there follows the hexagram of Preponderance of the Great.`,
+    wilhelm: `Extraordinary times when the great preponderates are like floodtimes when the lake rises over the treetops. But such conditions are temporary. The two trigrams indicate the attitude proper to such exceptional times: the symbol of the trigram Sun is the tree, which stands firm even though it stands alone, and the attribute of Tui is joyousness, which remains undaunted even if it must renounce the world.`,
+    eranos: `The situation described by this hexagram is characterized by the excessive predominance of a central idea or goal, which may become too heavy to bear.`
+  },
+  {
+    name: `The Gorge - Water`,
+    subtile: `kan`,
+    image: `29.jpg`,
+    alt: `water`,
+    kua: `water doubled flows onward. the gorge.\na junzi uses unchanging devout action, and makes use of repetition for instructing tasks.`,
+    sequence: `Things cannot be permanently in an overweighted state. Hence there follows the hexagram of the Abysmal. The Abysmal means a pit.`,
+    wilhelm: `Water reaches its goal by flowing continually. It fills up every depression before it flows on. The superior man follows its example; he is concerned that goodness should be an established attribute of character rather than an accidental and isolated occurrence. So likewise in teaching others everything depends on consistency, for it is only through repetition that the pupil makes the material his own.`,
+    eranos: `The situation described by this hexagram is characterized by the flow of life being on the brink of a dangerous plunge, which can only be overcome by risking, venturing and falling until a bottom is reached. The hexagram The Gorge is the doubling of the corresponding trigram, and partakes of its attributes.`
+  },
+  {
+    name: `The Radiance - Fire`,
+    subtile: `li`,
+    image: `30.jpg`,
+    alt: `fire`,
+    kua: `fire doubled generates radiance.\nthe great person uses continuous brightening so his illumination spreads to the four quarters.`,
+    sequence: `In a pit there is certain to be something clinging within. Hence there follows the hexagram of the Clinging. The Clinging means resting on something.`,
+    wilhelm: `Each of the two trigrams represents the sun in course of a day. The two together represent the repeated movement of the sun, the function of light with respect to time. The great man continues the work of nature in the human world. Through the clarity of his nature he causes the light to spread farther and farther and to penetrate the nature of every man ever more deeply.`,
+    eranos: `The situation described by this hexagram is characterized by a source of light, warmth and awareness, which gathers people around itself. The hexagram The Radiance is the doubling of the corresponding trigram and partakes of its attributes.`
+  },
+  {
+    name: `Sensing`,
+    subtile: `xian`,
+    image: `31.jpg`,
+    alt: `lake above mountain`,
+    kua: `the mountain possesses lake above. sensing.\na junzi uses openness receiving others.`,
+    sequence: `After there are heaven and earth, there are the individual things. After individual things have come into being, there are the two sexes. After there are male and female, there is the relationship between husband and wife. After the relationship between husband and wife exists, there is the relationship between father and son. After the relationship between father and son exists, there is the relationship between prince and servant. After the relationship between prince and servant exists, there is the difference between superior and inferior. After the releationship between superior and inferior exists, the rules of propriety and right can operate.`,
+    wilhelm: `A mountain with a lake on its summit is stimulated by the moisture from the lake. It has this advantage because its summit does not jut out as a peak but is sunken. The image counsels that the mind should be kept humble and free, so that it may remain receptive to good advice. People soon give up counseling a man who thinks he knows everything better than anyone else.`,
+    eranos: `The situation described by this hexagram is characterized by the attraction and influence between two complementary parts of a whole.`
+  },
+  {
+    name: `Constancy`,
+    subtile: `heng`,
+    image: `32.jpg`,
+    alt: `thunder above wind`,
+    kua: `thunder and wind. constancy.\na junzi uses standing firm without changing his inner direction.`,
+    sequence: `The way of husband and wife must not be other than long-lasting. Hence there follows the hexagram of Duration. Duration means long-lasting.`,
+    wilhelm: `Thunder rolls, and the wind blows; both are examples of extreme mobility and so are seemingly the very opposite of duration, but the laws governing their appearance and subsidence, their coming and going, endure. In the same way the independence of the superior man is not based on rigidity and immobility of character. He always keeps abreast of the time and changes with it. What endures is the unswerving directive, the inner law of his being, which determines all his actions.`,
+    eranos: `The situation described by this hexagram is characterized by duration, long-term commitment, steady determination and persistence.`
+  },
+  {
+    name: `Retreat`,
+    subtile: `dun`,
+    image: `33.jpg`,
+    alt: `heaven above mountain`,
+    kua: `heaven possesses the mountain below. retreat.\na junzi uses distancing petty individuals without aversion or intimidation`,
+    sequence: `Things cannot abide forever in their place: hence there follows the hexagram of Retreat. Retreat means withdrawing.`,
+    wilhelm: `The mountain rises up under heaven, but owing to its nature it finally comes to a stop. Heaven on the other hand retreats upward before it into the distance and remains out of reach. This symbolizes the behavior of the superior man toward a climbing inferior; he retreats into his own thoughts as the inferior man comes forward. He does not hate him, for hatred is a form of subjective involvement by which we are bound to the hated object. The superior man shows strength (heaven) in that he brings the inferior man to a standstill (mountain) by his dignified reserve.`,
+    eranos: `The situation described by this hexagram is characterized by withdrawing and seclusion, the end of an active involvement.`
+  },
+  {
+    name: `Great Power`,
+    subtile: `da zhuang`,
+    image: `34.jpg`,
+    alt: `thunder above heaven`,
+    kua: `thunder located above heaven. great power.\na junzi uses—when not ethical whatsoever—refraining from action.`,
+    sequence: `Things cannot retreat forever, hence there follows the Power of the Great.`,
+    wilhelm: `Thunder—electrical energy—mounts upward in the spring. The direction of this movement is in harmony with that of the movement of heaven. It is therefore a movement in accord with heaven, producing great power. However, true greatness depends on being in harmony with what is right. Therefore in times of great power the superior man avoids doing anything that is not in harmony with the established order.`,
+    eranos: `The situation described by this hexagram is characterized by the invigorating power of a central idea or long-term goal, which stimulates and spurs to action.`
+  },
+  {
+    name: `Advance`,
+    subtile: `jin`,
+    image: `35.jpg`,
+    alt: `fire above earth`,
+    kua: `brightness emerges above the earth. advance.\na junzi uses self enlightenment to brighten his devotion.`,
+    sequence: `Beings cannot stay forever in a state of power; hence there follows the hexagram of Progress. Progress means expansion.`,
+    wilhelm: `The light of the sun as it rises over the earth is by nature clear. The higher the sun rises, the more it emerges from the dark mists, spreading the pristine purity of its rays over an ever widening area. The real nature of man is likewise originally good, but it becomes clouded by contact with earthly things and therefore needs purification before it can shine forth in its native clarity.`,
+    eranos: `The situation described by this hexagram is characterized by thriving and flourishing like a plant in full sunlight.`
+  },
+  {
+    name: `Damage to Illumination`,
+    subtile: `ming yi`,
+    image: `36.jpg`,
+    alt: `earth above fire`,
+    kua: `brightness enters the earth's center. damage to illumination.\na junzi uses overseeing the masses by acting unobtrusively while yet brightened.`,
+    sequence: `Expansion will certainly encounter resistance and injury. Hence there follows the hexagram of Darkening of the Light. Darkening means damage, injury.`,
+    wilhelm: `In a time of darkness it is essential to be cautious and reserved. One should not needlessly awaken overwhelming enmity by inconsiderate behavior. In such times one ought not to fall in with the practices of others; neither should one drag them censoriously into the light. In social intercourse one should not try to be all-knowing. One should let many things pass, without being duped.`,
+    eranos: `The hexagram describes a situation in which the light is wounded or forced to hide, and the work of consciousness can only be carried on underground.`
+  },
+  {
+    name: `People in the Home`,
+    subtile: `jia ren`,
+    image: `37.jpg`,
+    alt: `wind above fire`,
+    kua: `wind from fire emerges. people in the home.\na junzi uses words possessing substance and deeds possessing tenacity.`,
+    sequence: `He who is injured without, of a certainty draws back into his family. Hence there follows the hexagram of the Family.`,
+    wilhelm: `Heat creates energy: this is signified by the wind stirred up by the fire and issuing forth from it. This represents influence working from within outward. The same thing is needed in the regulation of the family. Here too the influence on others must proceed from one’s own person. In order to be capable of producing such an influence, one’s words must have power, and this they can have only if they are based on something real, just as flame depends on its fuel. Words have influence only when they are pertinent and clearly related to definite circumstances. General discourses and admonitions have no effect whatsoever. Furthermore, the words must be supported by one’s entire conduct, just as the wind is made effective by its duration. Only firm and consistent conduct will make such an impression on others that they can adapt and conform to it. If words and conduct are not in accord and not consistent, they will have no effect.`,
+    eranos: `The situation described by this hexagram is characterized by the community of a household, people sharing a living space.`
+  },
+  {
+    name: `Disharmony`,
+    subtile: `kui`,
+    image: `38.jpg`,
+    alt: `fire above lake`,
+    kua: `fire above, the lake below. disharmony.\na junzi uses assimilation while retaining his individuality.`,
+    sequence: `When the way of the Family draws to an end, misunderstandings come. Hence there follows the hexagram of Opposition. Opposistion means misunderstandings.`,
+    wilhelm: `The two elements, fire and water, never mingle but even when in contact retain their own natures. So the cultured man is never led into baseness or vulgarity through intercourse or community of interests with persons of another sort; regardless of all commingling, he will always preserve his individuality.`,
+    eranos: `The situation described by this hexagram is characterized by a tension between polar opposites, which needs to be acknowledged and given its proper place.`
+  },
+  {
+    name: `Halting`,
+    subtile: `jian`,
+    image: `39.jpg`,
+    alt: `water above mountain`,
+    kua: `the mountain possesses water above. halting.\na junzi uses reflection upon himself to cultivate devotion.`,
+    sequence: `Through opposition difficulties necessarily arise. Hence there follows the hexagram of Obstruction. Obstruction means difficulty.`,
+    wilhelm: `Difficulties and obstructions throw a man back upon himself. While the inferior man seeks to put the blame on other persons, bewailing his fate, the superior man seeks the error within himself, and through this introspection the external obstacle becomes for him an occasion for inner enrichment and education.`,
+    eranos: `The hexagram describes a situation in which progress is hampered by obstacles and difficulties, and it is possible to proceed only haltingly and with heaviness.`
+  },
+  {
+    name: `Solution`,
+    subtile: `xie`,
+    image: `40.jpg`,
+    alt: `thunder above water`,
+    kua: `thunder and rain arrive. solution.\na junzi uses forgiving faults and pardoning crimes.`,
+    sequence: `Things cannot be permanently amid obstructions. Hence there follows the hexagram of Deliverance. Deliverance means release from tension.`,
+    wilhelm: `A thunderstorm has the effect of clearing the air; the superior man produces a similar effect when dealing with mistakes and sins of men that induce a condition of tension. Through clarity he brings deliverance. However, when failings come to light, he does not dwell on them; he simply passes over mistakes, the unintentional transgressions, just as thunder dies away. He forgives misdeeds, the intentional transgressions, just as water washes everything clean.`,
+    eranos: `The situation described by this hexagram is characterized by analyzing, dissolving obstacles to understanding, freeing energy that was previously blocked.`
+  },
+  {
+    name: `Reduction`,
+    subtile: `sun`,
+    image: `41.jpg`,
+    alt: `mountain above lake`,
+    kua: `the mountain possesses a lake below. reduction.\na junzi uses curbing his anger and restraining his passions.`,
+    sequence: `Through release of tension something is sure to be lost. Hence there follows the hexagram of Decrease.`,
+    wilhelm: `The lake at the foot of the mountain evaporates. In this way it decreases to the benefit of the mountain, which is enriched by its moisture. The mountain stands as the symbol of a stubborn strength that can harden into anger. The lake is the symbol of unchecked gaiety that can develop into passionate drives at the expense of the life forces. Therefore decrease is necessary; anger must be decreased by keeping still, the instincts must be curbed by restriction. By this decrease of the lower powers of the psyche, the higher aspects of the soul are enriched.`,
+    eranos: ` The situation described by this hexagram is characterized by decrease, reducing one's involvement, withdrawing energy from the matter at hand.`
+  },
+  {
+    name: `Increase`,
+    subtile: `yi`,
+    image: `42.jpg`,
+    alt: `wind above thunder`,
+    kua: `wind and thunder. increase.\na junzi uses seeing ways to improve and consequently emulating them, having faults and consequently correcting them.`,
+    sequence: `If decrease goes on and on, it is certain to bring about increase. Hence there follows the hexagram of Increase.`,
+    wilhelm: `While observing how thunder and wind increase and strengthen each other, a man can note the way to self-increase and self-improvement. When he discovers good in others, he should imitate it and thus make everything on earth his own. If he perceives something bad in himself, let him rid himself of it. In this way he becomes free of evil. This ethical change represents the most important increase of personality.`,
+    eranos: `The situation described by this hexagram is characterized by increase, expanding one's involvement, pouring new energy into the matter at hand.`
+  },
+  {
+    name: `Removal`,
+    subtile: `guai`,
+    image: `43.jpg`,
+    alt: `lake above heaven`,
+    kua: `the lake above adjoins heaven. removal.\na junzi uses disseminating revenues to reach those below. by embodying devotion he consequently remains unpretentious.`,
+    sequence: `If increase goes on unceasingly, there is certain to be a break-through. Hence there follows the hexagram of Break-Through. Break-through means resoluteness.`,
+    wilhelm: `When the water of a lake has risen up to heaven, there is reason to fear a cloudburst. Taking this as a warning, the superior man forestalls a violent collapse. If a man were to pile up riches for himself alone, without considering others, he would certainly experience a collapse. For all gathering is followed by dispersion. Therefore the superior man begins to distribute while he is accumulating. In the same way, in developing his character he takes care not to become hardened in obstinacy but to remain receptive to impressions by help of strict and continuous self-examination.`,
+    eranos: `The situation described by this hexagram is characterized by a breakthrough or resolution after a long accumulated tension, like a flooding river overflowing its banks and parting into different streams.`
+  },
+  {
+    name: `Meeting`,
+    subtile: `gou`,
+    image: `44.jpg`,
+    alt: `heaven above wind`,
+    kua: `heaven possesses wind below. meeting.\nthus rulers use disseminating directives to instruct the four quarters.`,
+    sequence: `Through resoluteness one is certain to encounter something. Hence there follows the hexagram of Coming to Meet. Coming to meet means encountering.`,
+    wilhelm: `The situation here resembles that in hexagram (20) Contemplation. In the latter the wind blows over the earth, here it blows under heaven; in both cases it goes everywhere. There the wind is on the earth and symbolizes the ruler taking note of the conditions in his kingdom; here the wind blows from above and symbolizes the influence exercised by the ruler through his commands. Heaven is far from the things of earth, but it sets them in motion by means of the wind. The ruler is far from his people, but he sets them in motion by means of his commands and decrees.`,
+    eranos: `The situation described by this hexagram is characterized by the magnetic attraction of primal Yin and Yang, a meeting driven by powerful instinctual forces, beyond the control of social or personal considerations.`
+  },
+  {
+    name: `Gathering`,
+    subtile: `cui`,
+    image: `45.jpg`,
+    alt: `lake above earth`,
+    kua: `the lake above adjoins earth. gathering.\na junzi uses defensive weapons to skillfully guard against the unexpected.`,
+    sequence: `When creatures meet one another, they mass together. Hence there follows the hexagram of Gathering Together. Gathering together means massing.`,
+    wilhelm: `If the water in the lake gathers until it rises above the earth, there is danger of a break-through. Precautions must be taken to prevent this. Similarly where men gather together in great numbers, strife is likely to arise; where possessions are collected, robbery is likely to occur. Thus in the time of Gathering Together we must arm promptly to ward off unexpected events against which we are not forearmed. If we are prepared, they can be prevented.`,
+    eranos: `The situation described by this hexagram is characterized by people or things assembling and forming compact clusters, like grass densely intertwined.`
+  },
+  {
+    name: `Rising`,
+    subtile: `sheng`,
+    image: `46.jpg`,
+    alt: `earth above wood`,
+    kua: `earth's center generates wood. rising.\na junzi using obedient devotion amasses the small to achieve the impeccably great.`,
+    sequence: `Massing toward the top is called pushing upward. Hence there follows the hexagram of Pushing Upward.`,
+    wilhelm: `Adapting itself to obstacles and bending around them, wood in the earth grows upward without haste and without rest. Thus too the superior man is devoted in character and never pauses in his progress.`,
+    eranos: `The situation described by this hexagram is characterized by ascending, being promoted, climbing step by step, moving towards a higher or finer goal.`
+  },
+  {
+    name: `Exhaustion`,
+    subtile: `kun`,
+    image: `47.jpg`,
+    alt: `lake above water`,
+    kua: `the lake has no water. exhaustion.\na junzi uses devoting his life to achieving his willful-purpose.`,
+    sequence: `If one pushes upward without stopping, he is sure to meet oppression. Hence there follows the hexagram of Oppression.`,
+    wilhelm: `When the water has flowed out below, the lake must dry up and become exhausted. That is fate. This symbolizes an adverse fate in human life. In such times there is nothing a man can do but acquiesce in his fate and remain true to himself. This concerns the deepest stratum of his being, for this alone is superior to all external fate.`,
+    eranos: `The situation described by this hexagram is characterized by an enclosure or restriction that causes the life energy to contract and forces one to find a way to grow within the limitations imposed by the circumstance.`
+  },
+  {
+    name: `The Well`,
+    subtile: `jing`,
+    image: `48.jpg`,
+    alt: `water above wood`,
+    kua: `wood possesses water above. the well.\na junzi employs a hardworking populace by encouraging reciprocity.`,
+    sequence: `He who is oppressed above is sure to turn downward. Hence there follows the hexagram of the Well.`,
+    wilhelm: `The trigram Sun, wood, is below, and the trigram K'an, water is above it. Wood sucks water upward. Just as wood as an organism imitates the action of the well, which benefits all parts of the plant, the superior man organizes human society, so that, as in a plant organism, its parts cooperate for the benefit of the whole.`,
+    eranos: `The situation described by this hexagram is characterized by the waters of life welling up from the depth. Maintaining a clear access to this central life source is crucial for one's well-being and nourishment.`
+  },
+  {
+    name: `Revolution`,
+    subtile: `ge`,
+    image: `49.jpg`,
+    alt: `lake above fire`,
+    kua: `the lake's center possesses fire. revolution.\na junzi uses organizing calendars and clarifying the seasons.`,
+    sequence: `The setup of a well must necessarily be revolutionized in the course of time. Hence there follows the hexagram of Revolution.`,
+    wilhelm: `Fire below and lake above combat and destroy each other. So too in the course of a year a combat takes place between the forces of light and the forces of darkness, eventuating in the revolution of the seasons. Man masters these changes in nature by noting their regularity and marking off the passage of time accordingly. In this way order and clarity appear in the apparently chaotic changes of the seasons, and man is able to adjust himself to the demands of the different times.`,
+    eranos: `The situation described by this hexagram is characterized by radically renewing one's presentation, peeling away an old skin which is no longer adequate.`
+  },
+  {
+    name: `The Cauldron`,
+    subtile: `ding`,
+    image: `50.jpg`,
+    alt: `fire above wood`,
+    kua: `wood possesses fire above. the cauldron.\na junzi uses the proper position to converge upon his fate.`,
+    sequence: `Nothing transforms things so much as the ting. Hence there follows the hexagram of the Cauldron.`,
+    wilhelm: `The fate of fire depends on wood; as long as there is wood below, the fire burns above. It is the same in human life; there is in man likewise a fate that lends power to his life. And if he succeeds in assigning the right place to life and to fate, thus bringing the two into harmony, he puts his fate on firm footing.`,
+    eranos: `The situation described by this hexagram is characterized by the alchemical image of a sacred vessel which transforms its contents into spiritual nourishment, and offering to higher powers.`
+  },
+  {
+    name: `The Shake - Thunder`,
+    subtile: `zhen`,
+    image: `51.jpg`,
+    alt: `thunder`,
+    kua: `repeated thunder. the shake.\na junzi uses caution and trepidation while practicing introspection.`,
+    sequence: `Among the custodians of the sacred vessels, the eldest son stands first. Hence there follows the hexagram of the Arousing. The Arousing means movement.`,
+    wilhelm: `The shock of continuing thunder brings fear and trembling. The superior man is always filled with reverence at the manifestation of god; he sets his life in order and searches his heart, lest it harbor any secret opposition to the will of god. Thus reverence is the foundation of true culture.`,
+    eranos: `The situation described by this hexagram is characterized by a powerful energy rising from the depth, a sudden frightening, awakening and inspiring shock. The hexagram The Shake is the doubling of the corresponding trigram, and partakes of its attributes.`
+  },
+  {
+    name: `The Bound - Mountain`,
+    subtile: `gen`,
+    image: `52.jpg`,
+    alt: `mountain`,
+    kua: `joined mountains. the bound.\na junzi uses thoughts that do not extend beyond his own purview.`,
+    sequence: `Things cannot move continuously, one must make them stop. Hence there follows the hexagram of Keeping Still. Keeping Still means stopping.`,
+    wilhelm: `The heart thinks constantly. This cannot be changed, but the movements of the heart—that is, a man’s thoughts—should restrict themselves to the immediate situation. All thinking that goes beyond this only makes the heart sore.`,
+    eranos: `The situation described by this hexagram is characterized by a limit or boundary which marks the end of a cycle, a time to stop, reflect and prepare for the transition to a new phase. The hexagram The Bound is the doubling of the corresponding trigram, and partakes of its attributes.`
+  },
+  {
+    name: `Gradual Progress`,
+    subtile: `jian`,
+    image: `53.jpg`,
+    alt: `wood above mountain`,
+    kua: `the mountain possesses wood above. gradual progress.\na junzi uses an enduring impeccable devotion to improve his conduct.`,
+    sequence: `Things cannot stop forever; hence there follows the hexagram of Development. Development means to progress.`,
+    wilhelm: `The tree on the mountain is visible from afar, and its development influences the landscape of the entire region. It does not shoot up like a swamp plant; its growth proceeds gradually. Thus also the work of influencing people can only be gradual. No sudden influence or awakening is of lasting effect. Progress must be quite gradual, and in order to obtain such progress in public opinion and in the mores of the people, it is necessary for the personality to acquire influence and weight. This comes about through careful and constant work on one's own moral development.`,
+    eranos: `The situation described by this hexagram is characterized by a gradual and steady penetration extending its influence by degrees, like water seeping into cracks.`
+  },
+  {
+    name: `Marrying a Young Woman`,
+    subtile: `gui mei`,
+    image: `54.jpg`,
+    alt: `thunder above lake`,
+    kua: `the lake possesses thunder above. marrying a young woman.\na junzi uses persistence in completely discovering his faults.`,
+    sequence: `Through progress one is sure to reach the place where one belongs. Hence there follows the hexagram of the Marrying Maiden.`,
+    wilhelm: `Thunder stirs the water of the lake, which follows it in shimmering waves. This symbolizes the girl who follows the man of her choice. But every relationship between individuals bears within it the danger that wrong turns may be taken, leading to endless misunderstandings and disagreements. Therefore it is necessary constantly to remain mindful of the end. If we permit ourselves to drift along, we come together and are parted again as the day may determine. If on the other hand a man fixes his mind on an end that endures, he will succeed in avoiding the reefs that confront the closer relationships of people.`,
+    eranos: `The situation described by this hexagram is characterized by realizing one's nature by accepting one's allotted destiny, as in the traditional image of a maiden finding her social maturity by entering the house of her husband.`
+  },
+  {
+    name: `Abundance`,
+    subtile: `feng`,
+    image: `55.jpg`,
+    alt: `thunder above fire`,
+    kua: `thunder and lightning both arrive. abundance.\na junzi uses deciding lawsuitsand executing punishments.`,
+    sequence: `That which attains a place in which it is at home is sure to become great. Hence there follows the hexagram of Abundance. Abundance means greatness.`,
+    wilhelm: `This hexagram has a certain connection with Biting Through (21), in which thunder and lightning similarly appear together, but in the reverse order. In Biting Through, laws are laid down; here they are applied and enforced. Clarity within makes it possible to investigate the facts exactly, and shock without ensures a strict and precise carrying out of punishments.`,
+    eranos: `The situation described by this hexagram is characterized by a peak of development, a culmination that can be fully expressed and enjoyed, even with the awareness that it will be inevitably followed by a decline.`
+  },
+  {
+    name: `Travel`,
+    subtile: `lü`,
+    image: `56.jpg`,
+    alt: `fire over mountain`,
+    kua: `the mountain possesses fire above. travel.\na junzi uses understanding and prudence when applying punishments and does not protract lawsuits.`,
+    sequence: `Whatever greatness may exhaust itself upon, this much is certain: it loses its home. Hence there follows the hexagram of the Wanderer.`,
+    wilhelm: `When grass on a mountain takes fire, there is bright light. However, the fire does not linger in one place, but travels on to new fuel. It is a phenomenon of short duration. This is what penalties should be like. They should be a quickly passing matter, and must not be dragged out indefinitely. Prisons ought to be places where people are lodged only temporarily, as guests are. They must not become dwelling places.`,
+    eranos: `The situation described by this hexagram is characterized by traveling, being away from home, living abroad, residing in a foreign context.`
+  },
+  {
+    name: `The Root - Wind`,
+    subtile: `sun`,
+    image: `57.jpg`,
+    alt: `wind`,
+    kua: `successive winds. the root.\na junzi uses communicating directions and inspiring action.`,
+    sequence: `The wanderer has nothing that might receive him; hence there follows the hexagram of the Gentle, the Penetrating. The Gentile means going into.`,
+    wilhelm: `The penetrating quality of the wind depends upon its ceaselessness. This is what makes it so powerful; time is its instrument. In the same way the ruler's thought should penetrate the soul of the people. This too requires a lasting influence brought about by enlightenment and command. Only when the command had been assimilated by the people is action in accordance with it possible. Action without preparation of the ground only frightens and repels.`,
+    eranos: `The situation described by this hexagram is characterized by grounding, gently supporting and nourishing things from below. The hexagram The Root is the doubling of the corresponding trigram, and partakes of its attributes.`
+  },
+  {
+    name: `The Open - Lake`,
+    subtile: `tui`,
+    image: `58.jpg`,
+    alt: `lake`,
+    kua: `joined lakes. the open.\na junzi uses joining with companions for mutual discussion and practice.`,
+    sequence: `When one has penetrated something, one rejoices. Hence there follows the hexagram of the Joyous. The Joyous means to rejoice.`,
+    wilhelm: `A lake evaporates upward and thus gradually dries up; but when two lakes are joined they do not dry up so readily, for one replenishes the other. It is the same in the field of knowledge. Knowledge should be a refreshing and vitalizing force. It becomes so only through stimulating intercourse with congenial friends with whom one holds discussion and practices application of the truths of life. In this way learning becomes many-sided and takes on a cheerful lightness, whereas there is always something ponderous and one-sided about the learning of the self-taught.`,
+    eranos: `The situation described by this hexagram is characterized by an openness to interaction, communication and exchange, which brings joyous stimulation. The hexagram The Open is the doubling of the corresponding trigram, and partakes of its attributes.`
+  },
+  {
+    name: `Dispersal`,
+    subtile: `huan`,
+    image: `59.jpg`,
+    alt: `wind above water`,
+    kua: `the wind moves above water. dispersal.\nancient kings used reverence to god and established shrines.`,
+    sequence: `After joy comes dispersal. Hence there follows the hexagram of Dispersion. Dispersion means scattering.`,
+    wilhelm: `In the autumn and winter, water begins to freeze into ice. When the warm breezes of spring come, the rigidity is dissolved, and the elements that have been dispersed in ice floes are reunited. It is the same with the minds of the people. Through hardness and selfishness the heart grows rigid, and this rigidity leads to a separation from all others. Egotism and cupidity isolate men. Therefore the hearts of men must be seized by a devout emotion. They must be shaken by a religious awe in the face of eternity—stirred with an intuition of the one creator of all living beings, and united through the strong feeling of fellowship experienced in the ritual of divine worship.`,
+    eranos: `The situation described by this hexagram is characterized by dissolving obstacles, illusions or misunderstandings, like clouds clearing away.`
+  },
+  {
+    name: `Discipline`,
+    subtile: `jieh`,
+    image: `60.jpg`,
+    alt: `water above lake`,
+    kua: `the lake possesses water above. discipline.\na junzi uses defining enumeration and measurement, and carefully deliberates devout conduct.`,
+    sequence: `Things cannot be forever separate. Hence there follows the hexagram of Limitation.`,
+    wilhelm: `A lake is something limited. Water is inexhaustible. A lake can contain only a definite amount of the infinite quantity of water; this is its peculiarity. In human life too the individual achieves significance through discrimination and the setting of limits. Therefore what concerns us here is the problem of clearly defining these discriminations, which are, so to speak, the backbone of morality. Unlimited possibilities are not suited to man; if they existed, his life would only dissolve in the boundless. To become strong, a man’s life needs the limitations ordained by duty and voluntarily accepted. The individual attains significance as a free spirit only by surrounding himself with these limitations and by determining for himself what his duty is.`,
+    eranos: `The situation described by this hexagram is characterized by clearly expressing boundaries and connections, correctly partitioning a whole while acknowledging its essential unity.`
+  },
+  {
+    name: `Sincerity in the Center`,
+    subtile: `zhong fu`,
+    image: `61.jpg`,
+    alt: `wind above lake`,
+    kua: `the lake possesses wind above. sincerity in the center.\na junzi uses pondering law suits and postponing executions.`,
+    sequence: `Through being limited, things are made dependable. Hence there follows the hexagram of Inner Truth.`,
+    wilhelm: `Wind stirs water by penetrating it. Thus the superior man, when obliged to judge the mistakes of men, tries to penetrate their minds with understanding, in order to gain a sympathetic appreciation of the circumstances. In ancient China, the entire administration of justice was guided by this principle. A deep understanding that knows how to pardon was considered the highest form of justice. This system was not without success, for its aim was to make so strong a moral impression that there was no reason to fear abuse of such mildness. For it sprang not from weakness but from a superior clarity.`,
+    eranos: `The situation described by this hexagram is characterized by bringing one's inner being and outer circumstances into a sincere and reliable accord.`
+  },
+  {
+    name: `Small Excess`,
+    subtile: `xiao guo`,
+    image: `62.jpg`,
+    alt: `thunder above mountain`,
+    kua: `the mountain possesses thunder above. small excess.\na junzi uses conduct excessive in courtesy, sadness excessive in mourning, spending excessive in economy.`,
+    sequence: `When one has the trust of creatures, one sets them in motion; hence there follows the hexagram of Preponderance of the Small.`,
+    wilhelm: `Thunder on the mountain is different from thunder on the plain. In the mountains, thunder seems much nearer; outside the mountains, it is less audible than the thunder of an ordinary storm. Thus the superior man derives an imperative from this image: he must always fix his eyes more closely and more directly on duty than does the ordinary man, even though this might make his behavior seem petty to the outside world. He is exceptionally conscientious in his actions. In bereavement emotion means more to him than ceremoniousness. In all his personal expenditures he is extremely simple and unpretentious. In comparison with the man of the masses, all this makes him stand out as exceptional. But the essential significance of his attitude lies in the fact that in external matters he is on the side of the lowly.`,
+    eranos: `The situation described by this hexagram is characterized by the excessive predominance of a variety of small concerns, which might obscure the overall significance.`
+  },
+  {
+    name: `Settled`,
+    subtile: `ji ji`,
+    image: `63.jpg`,
+    alt: `water above fire`,
+    kua: `water located above fire. settled.\na junzi uses considering problems and makes plans to prevent them.`,
+    sequence: `He who stands above things brings them to completion. Hence there follows the hexagram of After Completion.`,
+    wilhelm: `When water in a kettle hangs over fire, the two elements stand in relation and thus generate energy (the production of steam). But the resulting tension demands caution. If the water boils over, the fire is extinguished and its energy is lost. If the heat is too great, the water evaporates into the air. These elements here brought into relation and thus generating energy are by nature hostile to each other. Only the most extreme caution can prevent damage. In life too there are junctures when all forces are in balance and work in harmony, so that everything seems to be in the best of order. In such times only the sage recognizes the moments that bode danger and knows how to banish it by means of timely precautions.`,
+    eranos: `The situation described by this hexagram is characterized by involvement in a process which is already on its way to completion, being already engaged in a course of action.`
+  },
+  {
+    name: `Unsettled`,
+    subtile: `wei ji`,
+    image: `64.jpg`,
+    alt: `fire above water`,
+    kua: `fire located above water. unsettled.\na junzi uses carefully discriminating beings and maintaining boundaries.`,
+    sequence: `Things cannot exhaust themselves. Hence there follows, at the end, the hexagram of Before Completion.`,
+    wilhelm: `When fire, which by nature flames upward, is above, and water, which flows downward, is below, the effects take opposite directions and remain unrelated. If we wish to achieve an effect, we must first investigate the nature of the forces in question and ascertain their proper place. If we can bring those forces to bear in the right place, they will have the desired effect, and completion will  be achieved. But in order to handle external forces properly, we must above all arrive at the correct standpoint ourselves, for only from this vantage can we work correctly.`,
+    eranos: `The situation described by this hexagram is characterized by involvement in a process which is still far from completion, being on the brink of a move whose outcome cannot yet be discerned.`
+  },
+];

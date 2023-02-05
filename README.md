@@ -4,6 +4,8 @@ I Ching, The Sequence of the Hexagrams.
 
 ## App
 
+1.1: Content and images complete.  
+
 1.0: Baseline content rendering and navigation.  
 Material mat-table UI. SCSS Theme and topograpy.  
 Image assets, Icon.  
