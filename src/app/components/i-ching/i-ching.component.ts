@@ -131,7 +131,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `zhun`,
     image: `03.jpg`,
     alt: `water above thunder`,
-    kua: `clouds and thunder. difficulty.\na junzi uses principles of coordination.`,
+    kua: `clouds and thunder. difficulty.\na junzi uses principles of organization.`,
     sequence: `After heaven and earth have come into existence, individual beings develop. It is these individual beings that fill the space between heaven and earth. Hence there follows the hexagram of Difficulty at the Beginning. Difficulty at the beginning is the same as filling up.`,
     wilhelm: `Clouds and thunder are represented by definite decorative lines; this means that in the chaos of difficulty at the beginning, order is already implicit. So too the superior man has to arrange and organize the inchoate profusion of such times of beginning, just as one sorts out silk threads from a knotted tangle and binds them into skeins. In order to find one's place in the infinity of being, one must be able both to separate and to unite`,
     eranos: `The situation described by this hexagram is characterized by difficulties surrounding a new beginning, like the growth of a tender shoot piercing through hard soil.`
@@ -141,7 +141,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `meng`,
     image: `04.jpg`,
     alt: `mountain above water`,
-    kua: `below the mountain emerges stream-water. immaturity.\na junzi uses productive action to nurture devotion.`,
+    kua: `below the mountain emerges springwater. immaturity.\na junzi uses productive action to nurture devotion.`,
     sequence: `When, after difficulties at the beginning, things have just been born, they are always wrapped at birth in obtuseness. Hence there follows the hexagram of Youthful Folly. For youthfull folly means youthful obtuseness. This is the state of things in their youth.`,
     wilhelm: `A spring succeeds in flowing on and escapes stagnation by filling up all the hollow places in its path. In the same way character is developed by thoroughness that skips nothing but, like water, gradually and steadily fills all gaps and so flows onward.`,
     eranos: `The situation described by this hexagram is characterized by something covered because still immature, a young, incompletely formed consciousness, which needs to ripen under the protective veil of envelopment.`
@@ -191,7 +191,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `xiao chu`,
     image: `09.jpg`,
     alt: `wind above heaven`,
-    kua: `the wind moves above heaven. small development.\na junzi uses exemplary archetypal devotion.`,
+    kua: `the wind moves above heaven. small development.\na junzi uses impeccable archetypal devotion.`,
     sequence: `Through holding together, restraint is certain to come about. Hence there follows The Taming Power of the Small`,
     wilhelm: `The wind can indeed drive the clouds together in the sky; yet, being nothing but air, without solid body, it does not produce great or lasting effects. So also an individual, in times when he can produce no great effect in the outer world, can do nothing except refine the expression of his nature in small ways.`,
     eranos: `The situation described by this hexagram is characterized by the accumulation of a multiplicity of seemingly unrelated events and circumstances, which require a flexible adaptation.`
@@ -201,9 +201,9 @@ const I_CHING: KuaInfo[] = [
     subtile: `lü`,
     image: `10.jpg`,
     alt: `heaven above lake`,
-    kua: `heaven above the lake below. treading.\na junzi discriminates between above and belowand so settles the populace's ambitions`,
+    kua: `heaven above the lake below. treading.\na junzi discriminates between above and below and so settles the populace's ambitions`,
     sequence: `When beings are subjected to restraint the mores arise; hence there follows the hexagram of Conduct`,
-    wilhelm: `Heaven and the lake show a difference of elevation that inheres in the natures of the two, hence no envy arises. Among mankind also there are necessarily differences of elevation; it is impossible to bring about universal equality. But it is important that differences is social rank should not be arbitrary and unjust, for if this occurs, envy and class struggle are the inevitable consequences. If, on the other hand, external differences in rank correspond with differences in inner worth, and if inner worth forms the criterion of external rank, people acquiesce and order reigns in society.`,
+    wilhelm: `Heaven and the lake show a difference of elevation that inheres in the natures of the two, hence no envy arises. Among mankind also there are necessarily differences of elevation; it is impossible to bring about universal equality. But it is important that differences in social rank should not be arbitrary and unjust, for if this occurs, envy and class struggle are the inevitable consequences. If, on the other hand, external differences in rank correspond with differences in inner worth, and if inner worth forms the criterion of external rank, people acquiesce and order reigns in society.`,
     eranos: `The situation described by this hexagram is characterized by making one's own path by treading on dangerous ground, requiring heightened awareness.`
   },
   {
@@ -231,7 +231,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `tong ren`,
     image: `13.jpg`,
     alt: `heaven above fire`,
-    kua: `heaven accompanies fire. association with others.\na junzi uses categorizing clans and distinguishing beings.`,
+    kua: `heaven accompanies fire. association with others.\na junzi uses organizing into clans and distinguishing beings.`,
     sequence: `Things cannot be at a standstill forever. Hence there follows the hexagram of Fellowship with Men`,
     wilhelm: `Heaven has the same direction of movement as fire, yet it is different from fire. Just as the luminaries in the sky serve for the systematic division and arrangement of time, so human society and all things that really belong together must be organically arranged. Fellowship should not be a mere mingling of individuals or of things—that would be chaos, not fellowship. If fellowship is to lead to order, there must be organization within diversity.`,
     eranos: `The situation described by this hexagram is characterized by cooperation, people united by a common goal.`
@@ -283,7 +283,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `gu`,
     image: `18.jpg`,
     alt: `mountain above wind`,
-    kua: `the mountain possesses wind below. degeneration.\na junzi uses inspiring the populace and then strengthening their devotion.`,
+    kua: `the mountain possesses wind below. degeneration.\na junzi uses inspiring the populace and strengthening their devotion.`,
     sequence: `When one follows others with pleasure, There are certain to be undertakings. Hence there follows the hexagram of Work on What Has Been Spoiled. Work on what has been spoiled means undertakings.`,
     wilhelm: `When the wind blows low on the mountain, it is thrown back and spoils the vegetation. This contains a challenge to improvement. It is the same with debasing attitudes and fashions; they corrupt human society. To do away with this corruption, the superior man must regenerate society. His methods likewise must be derived from the two trigrams, but in such a way that their effects unfold in orderly sequence. The superior man must first remove stagnation by stirring up public opinion, as the wind stirs everything, and must then strengthen and tranquillize the character of the people, as the mountain gives tranquility and nourishment to all that grows in its vicinity.`,
     eranos: `The situation described by this hexagram is characterized by the rotting away of something that has become poisonous, a putrefaction that has to run its course in order for a new birth to be possible.`
@@ -303,7 +303,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `guan`,
     image: `20.jpg`,
     alt: `wind above earth`,
-    kua: `wind moves above the earth. observing.\nancient kings used inspecting their regions and observing the populace to enact instruction.`,
+    kua: `wind moves above the earth. observing.\nancient kings used inspecting their regions and observing the populace to setup education.`,
     sequence: `When things are great, one can contemplate them. Hence there follows the hexagram of Contemplation.`,
     wilhelm: `When the wind blows over the earth it goes far and wide, and the grass must bend to its power. These two occurrences find confirmation in the hexagram. The two images are used to symbolize a practice of the kings of old; in making regular journeys the ruler could, in the first place, survey his realm and make certain that none of the existing usages of the people escaped notice; in the second, he could exert influence through which such customs as were unsuitable could be changed. All of this points to the power possessed by a superior personality. On the one hand, such a man will have a view of the real sentiments of the great mass of humanity and therefore cannot be deceived; on the other, he will impress the people so profoundly, by his mere existence and by the impact of his personality, that they will be swayed by him as the grass by the wind.`,
     eranos: `The situation described by this hexagram is characterized by contemplating something from a distance, without immediate involvement.`
@@ -563,7 +563,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `sheng`,
     image: `46.jpg`,
     alt: `earth above wood`,
-    kua: `earth's center generates wood. rising.\na junzi using obedient devotion amasses the small to achieve the impeccably great.`,
+    kua: `earth's center generates wood. rising.\na junzi using obedient devotion builds upon the small to achieve the impeccably great.`,
     sequence: `Massing toward the top is called pushing upward. Hence there follows the hexagram of Pushing Upward.`,
     wilhelm: `Adapting itself to obstacles and bending around them, wood in the earth grows upward without haste and without rest. Thus too the superior man is devoted in character and never pauses in his progress.`,
     eranos: `The situation described by this hexagram is characterized by ascending, being promoted, climbing step by step, moving towards a higher or finer goal.`
@@ -733,7 +733,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `ji ji`,
     image: `63.jpg`,
     alt: `water above fire`,
-    kua: `water located above fire. settled.\na junzi uses considering problems and makes plans to prevent them.`,
+    kua: `water located above fire. settled.\na junzi uses considering problems and making plans to prevent them.`,
     sequence: `He who stands above things brings them to completion. Hence there follows the hexagram of After Completion.`,
     wilhelm: `When water in a kettle hangs over fire, the two elements stand in relation and thus generate energy (the production of steam). But the resulting tension demands caution. If the water boils over, the fire is extinguished and its energy is lost. If the heat is too great, the water evaporates into the air. These elements here brought into relation and thus generating energy are by nature hostile to each other. Only the most extreme caution can prevent damage. In life too there are junctures when all forces are in balance and work in harmony, so that everything seems to be in the best of order. In such times only the sage recognizes the moments that bode danger and knows how to banish it by means of timely precautions.`,
     eranos: `The situation described by this hexagram is characterized by involvement in a process which is already on its way to completion, being already engaged in a course of action.`
@@ -743,7 +743,7 @@ const I_CHING: KuaInfo[] = [
     subtile: `wei ji`,
     image: `64.jpg`,
     alt: `fire above water`,
-    kua: `fire located above water. unsettled.\na junzi uses carefully discriminating beings and maintaining boundaries.`,
+    kua: `fire located above water. unsettled.\na junzi uses careful discrimination of beings and maintaining boundaries.`,
     sequence: `Things cannot exhaust themselves. Hence there follows, at the end, the hexagram of Before Completion.`,
     wilhelm: `When fire, which by nature flames upward, is above, and water, which flows downward, is below, the effects take opposite directions and remain unrelated. If we wish to achieve an effect, we must first investigate the nature of the forces in question and ascertain their proper place. If we can bring those forces to bear in the right place, they will have the desired effect, and completion will  be achieved. But in order to handle external forces properly, we must above all arrive at the correct standpoint ourselves, for only from this vantage can we work correctly.`,
     eranos: `The situation described by this hexagram is characterized by involvement in a process which is still far from completion, being on the brink of a move whose outcome cannot yet be discerned.`
